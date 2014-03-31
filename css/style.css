@@ -275,7 +275,7 @@ SLIDES
 #slide1 {
     background: #065bbc url(../images/slide1/bg.jpg) no-repeat center top;
     background-size: cover;
-    height: 880px;
+    height: 1080px;
     overflow: hidden;
 }
 
@@ -383,12 +383,12 @@ SLIDES
     -ms-transform: rotate(-15deg);
     -webkit-transform: rotate(-15deg);
     /*filter: blur(6px);
-    	-webkit-filter: blur(6px);
-    	-moz-filter: blur(6px);
-    	-o-filter: blur(6px);
-    	-ms-filter: blur(6px);
-    	filter: url(blur.svg#blur);
-    	filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='6');*/
+        -webkit-filter: blur(6px);
+        -moz-filter: blur(6px);
+        -o-filter: blur(6px);
+        -ms-filter: blur(6px);
+        filter: url(blur.svg#blur);
+        filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='6');*/
 }
 
 .stick-shooting {
@@ -617,13 +617,13 @@ SLIDES
     max-width: 40px;
 }
 
-/****************************
+/******************************
  SLIDE 5
 *******************************/
 
 #slide5 {
     background: #343435 url(../images/slide5/bg.jpg) repeat;
-    height: 800px;
+    height: auto;
     overflow: visible;
 }
 
@@ -925,7 +925,7 @@ SLIDES
 
     .angle-mobile-device {
         top: 10px;
-        left: -20px;
+        left: 0px;
         max-width: 500px;
     }
 
@@ -944,7 +944,7 @@ SLIDES
 
     .angle-mobile-device {
         top: 10px;
-        left: -50px;
+        left: -30px;
         max-width: 250px;
     }
 
