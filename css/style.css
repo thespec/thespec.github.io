@@ -411,7 +411,7 @@ SLIDES
 }
 
 #slide2 header {
-    padding: 2.55555556em 0 2.777777778em 0; /* 100px 0 50px 0 */
+    padding: 1.55555556em 0 2.777777778em 0; /* 100px 0 50px 0 */
 }
 
 #slide2 header h3 {
@@ -456,7 +456,7 @@ SLIDES
 
 #slide3 {
     background: #ccf5f5 url(../images/slide3/bg.jpg) repeat;
-    height: 820px;
+    height: 1120px;
     overflow: hidden;
 }
 
