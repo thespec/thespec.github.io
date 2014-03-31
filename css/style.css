@@ -275,7 +275,7 @@ SLIDES
 #slide1 {
     background: #065bbc url(../images/slide1/bg.jpg) no-repeat center top;
     background-size: cover;
-    height: 1080px;
+    height: 880px;
     overflow: hidden;
 }
 
@@ -623,7 +623,7 @@ SLIDES
 
 #slide5 {
     background: #343435 url(../images/slide5/bg.jpg) repeat;
-    height: auto;
+    height: 800px;
     overflow: visible;
 }
 
@@ -925,7 +925,7 @@ SLIDES
 
     .angle-mobile-device {
         top: 10px;
-        left: 0px;
+        left: -20px;
         max-width: 500px;
     }
 
@@ -944,7 +944,7 @@ SLIDES
 
     .angle-mobile-device {
         top: 10px;
-        left: -30px;
+        left: -50px;
         max-width: 250px;
     }
 
